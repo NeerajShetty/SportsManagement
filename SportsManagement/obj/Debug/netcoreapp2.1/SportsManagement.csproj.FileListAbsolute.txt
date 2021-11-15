@@ -1,0 +1,14 @@
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\bin\Debug\netcoreapp2.1\SportsManagement.deps.json
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\bin\Debug\netcoreapp2.1\SportsManagement.runtimeconfig.json
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\bin\Debug\netcoreapp2.1\SportsManagement.runtimeconfig.dev.json
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\bin\Debug\netcoreapp2.1\SportsManagement.dll
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\obj\Debug\netcoreapp2.1\SportsManagement.csprojAssemblyReference.cache
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\obj\Debug\netcoreapp2.1\SportsManagement.csproj.CoreCompileInputs.cache
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\obj\Debug\netcoreapp2.1\SportsManagement.RazorAssemblyInfo.cache
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\obj\Debug\netcoreapp2.1\SportsManagement.RazorAssemblyInfo.cs
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\obj\Debug\netcoreapp2.1\SportsManagement.AssemblyInfoInputs.cache
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\obj\Debug\netcoreapp2.1\SportsManagement.AssemblyInfo.cs
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\obj\Debug\netcoreapp2.1\SportsManagement.RazorTargetAssemblyInfo.cache
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\bin\Debug\netcoreapp2.1\SportsManagement.pdb
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\obj\Debug\netcoreapp2.1\SportsManagement.dll
+C:\Users\minddotnet113\source\repos\SportsManagement\SportsManagement\obj\Debug\netcoreapp2.1\SportsManagement.pdb
